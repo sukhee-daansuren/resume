@@ -3,8 +3,7 @@
     "name":"Beck Daansuren",
     "description":"I am a web development engineer and I use react to develop pages.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+  
     "email": "beck.daansuren@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/beckdaansuren",
@@ -15,29 +14,17 @@
       "state":"IL",
       "zip": "60074"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.http://beck.42web.io/.com",
+    "resumedownload":"http://http://beck.42web.io/.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
+     
+    
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/beck-daansuren/",
         "className":"fa fa-linkedin"
       },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
+   
       {
         "name":"github",
         "url":"https://github.com/nordicgiant2/react-nice-resume",
@@ -52,13 +39,13 @@
         "school":"React Bootcamp",
         "degree":"React developer",
         "graduated":"March 2023",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"A React developer is responsible for the design and implementation of user interfaces (UIs) and UI components using React, a front-end JavaScript library."
       },
       {
         "school":"Mongolian University of Science and Technology",
         "degree":"Bachelor in Information Technology",
         "graduated":"2005 - 2011",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Professional responsible for setting up and maintaining networks within an organization or between organizations."
       }
     ],
     "work":[
@@ -66,13 +53,13 @@
         "company":"Mongolian IT Professionals in USA (MITPU)",
         "title":"Front-end Developer Internship",
         "years":"June 2021",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"MITPU - non profit company (Chicago IL)" 
       },
       {
         "company":"Firewall Solution LLC",
         "title":"Remote Junior Front-end Developer",
         "years":"May 2017 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"We have 4 people in working. 2 Back end Developer 2 Junior web developer working on it.  "
       }
     ],
     "skills":[
@@ -109,10 +96,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Intern ship MITPU",
+        "category":"My first time Intern ship",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.https://mitpu.org/en/"
       },
       {
         "title":"Fury Fighting Gear",
