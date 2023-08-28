@@ -43,7 +43,7 @@ class About extends Component {
                       {city} {state}, {zip}
                     </span>
                     <br />
-                    <span>{phone}</span>
+                    <span>{773 - 230 - 4447}</span>
                     <br />
                     <span>{email}</span>
                   </p>

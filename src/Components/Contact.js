@@ -113,7 +113,7 @@ class Contact extends Component {
                   {street} <br />
                   {city}, {state} {zip}
                   <br />
-                  <span>{phone}</span>
+                  <span>{773 - 230 - 4447}</span>
                 </p>
               </div>
 
